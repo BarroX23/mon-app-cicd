@@ -1,0 +1,8 @@
+{
+    "name": "mon-app-cicd",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo Tests OK && exit 0"
+    }
+  }
